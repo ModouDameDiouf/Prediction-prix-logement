@@ -72,21 +72,27 @@ Variable	Description
 Le projet suit les principales étapes d'une démarche de Data Science :
 
 **Phase 1** : Compréhension du problème métier
+
 Définition du contexte immobilier, du problème métier et des objectifs du projet.
 
 **Phase 2** : Compréhension des données
+
 Exploration du dataset, identification des variables et analyse de leur structure.
 
 **Phase 3** : Nettoyage des données
+
 Traitement des valeurs manquantes, vérification des doublons, détection des éventuelles anomalies et préparation des données.
 
 **Phase 4** : Analyse exploratoire des données (EDA)
+
 Analyse statistique et graphique des variables afin d'identifier les principales tendances, distributions, relations et corrélations.
 
 **Phase 5** : Apprentissage des modèles
+
 Préparation des données pour le Machine Learning, entraînement de plusieurs modèles de régression et comparaison de leurs performances.
 
 **Phase 6** : Évaluation des modèles
+
 Évaluation des modèles à l'aide de métriques adaptées à un problème de régression et sélection du modèle le plus performant.
 
 
